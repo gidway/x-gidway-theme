@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Gidway
+Type=X-GNOME-Metatheme
+Comment=There is only one
+Encoding=UTF-8
+GtkTheme=Gidway
+MetacityTheme=Gidway
+IconTheme=gnome
+CursorTheme=DMZ-White
+CursorSize=24
